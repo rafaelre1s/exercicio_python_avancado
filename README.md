@@ -1,6 +1,6 @@
 ﻿# exercicio_python-avancado_m04
 
-## André Soares - Curso Desenvolvedor Full Stack Python
+##  - Curso Desenvolvedor Full Stack Python
 
 Exercício para conclusão do módulo 04 sobre Python Avançado, no curso Fullstack EBAC
 
